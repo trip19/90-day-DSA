@@ -1,0 +1,8 @@
+Time complexity:
+Big o, Big omega and Big theta notations
+Big theta is the most efficient
+1(better)<logn<n<nlogn<n^2<n^3<2^n<n^n(worse)
+best case, worse case and average case
+the algorithm must do good in the worst case to be efficient
+We also calculate space complexity
+Calculate the time complexity as a function of input since, every computer has different working time and cannot execute the code in the same time
